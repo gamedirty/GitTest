@@ -29,6 +29,7 @@ public class WTFTextView extends android.support.v7.widget.AppCompatTextView {
         paint.setColor(0xFFFFDB26);
         System.out.print(2);
         System.out.print(2);
+        System.out.print(2);
     }
 
     public WTFTextView(Context context, @Nullable AttributeSet attrs) {
