@@ -31,7 +31,6 @@ public class WTFTextView extends android.support.v7.widget.AppCompatTextView {
         System.out.print(2);
         System.out.print(2);
         System.out.print(2);
-        System.out.print(2);
     }
 
     public WTFTextView(Context context, @Nullable AttributeSet attrs) {
