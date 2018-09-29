@@ -27,6 +27,9 @@ public class WTFTextView extends android.support.v7.widget.AppCompatTextView {
         paint.setStrokeCap(Paint.Cap.ROUND);
         paint.setStrokeWidth(lineHeight);
         paint.setColor(0xFFFFDB26);
+        System.out.print(2);
+        System.out.print(2);
+        System.out.print(2);
     }
 
     public WTFTextView(Context context, @Nullable AttributeSet attrs) {
